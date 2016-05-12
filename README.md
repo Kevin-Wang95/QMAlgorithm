@@ -10,4 +10,6 @@ INPUT FORMAT:
 OUTPUT FORMAT:
 The equation with minimun coef.
 
+
+
 Kevin Y. Wang
